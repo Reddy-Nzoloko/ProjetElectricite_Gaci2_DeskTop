@@ -59,5 +59,12 @@ namespace WindowsFormsApp1
             fenA.Show();
             this.Hide();
         }
+
+        private void guna2CirclePictureBox2_Click(object sender, EventArgs e)
+        {
+            FenPrincipale fenA = new FenPrincipale();
+            fenA.Show();
+            this.Hide();
+        }
     }
 }
